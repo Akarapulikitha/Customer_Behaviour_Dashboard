@@ -260,6 +260,6 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Mounika**
+**Akarapu Likitha**
 
 Aspiring Data Analyst | SQL | Power BI | Excel | Data Visualization
