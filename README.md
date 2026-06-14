@@ -150,6 +150,8 @@ The dataset was imported into **Microsoft SQL Server Management Studio (SSMS)** 
 ## 📈 Dashboard Visualizations
 
 The dashboard includes:
+<img width="1775" height="772" alt="Screenshot 2026-06-14 193451" src="https://github.com/user-attachments/assets/f73eeacd-9cbe-419b-adae-11c593a736ae" />
+
 
 ### KPI Section
 
